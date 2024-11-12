@@ -1,4 +1,4 @@
-Hackintosh
+Hackintosh EFI folder
 
 Mainboard: Gigabyte B460M D3H <br/>
 Processor: Core i5-10500 <br/>
